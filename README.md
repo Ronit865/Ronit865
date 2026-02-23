@@ -33,12 +33,11 @@ I like learning new things, solving real problems with code, and improving my sk
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronit865&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit865&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronit865&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit865&layout=compact&theme=radical&cache_seconds=1800" height="170"/>
 </p>
 
 ---
