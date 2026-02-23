@@ -33,7 +33,9 @@ I like learning new things, solving real problems with code, and improving my sk
 </p>
 
 ---
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronit865&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
