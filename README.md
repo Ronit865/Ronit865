@@ -35,8 +35,10 @@ I like learning new things, solving real problems with code, and improving my sk
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronit865&theme=tokyonight)
----
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ronit865&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ronit865&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ## 📫 Connect With Me
 
