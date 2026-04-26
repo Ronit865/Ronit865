@@ -33,7 +33,7 @@ I like learning new things, solving real problems with code, and improving my sk
 </p>
 
 ---
-## 📊 GitHub Stats.
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ronit865&show_icons=true&theme=tokyonight" height="170"/>
