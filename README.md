@@ -22,14 +22,6 @@ I like learning new things, solving real problems with code, and improving my sk
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ronit865&show_icons=true&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## ✈️ Contribution Heatmap
 
 <p align="left">
