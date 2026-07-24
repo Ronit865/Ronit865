@@ -19,7 +19,7 @@ I like learning new things, solving real problems with code, and improving my sk
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,postman,postgres,prisma,mongodb,express,js,html,css,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,postman,postgres,prisma,mongodb,express,ts,js,react,nodejs,aws" />
 </p>
 
 ---
