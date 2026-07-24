@@ -1,4 +1,8 @@
-# Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ronit+👋;Student+%26+Web+Developer;Building+clean%2C+practical+projects;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
 ## About Me
 
@@ -26,6 +30,14 @@ I like learning new things, solving real problems with code, and improving my sk
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ronit865&show_icons=true&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## ✈️ Contribution Heatmap
+
+<p align="left">
+  <img src="dist/github-jet.svg" alt="Jet contribution heatmap" />
 </p>
 
 ---
